@@ -1,38 +1,16 @@
 <html>
+  <head><title> heinrich Information</title></head>
+  <body
+  >
     
-    <head><title>Halaman</title></head>
-<body>
-    
-    <h1><font color= "Black" size="16"> Information</font>
-    
-    <h2><font color= "Red" size="6">Fullname:</font>
-    
-    <p><font color ="Green" size="6"> Heinrich Bernardo Esguerra</font></p>
-    
-    <h3><font color="Red" size="6" >Address:</font>
-    
-    <p><font color="Blue" size="6"> 72labao st Napindan Taguig City</font></p>
-    
-    <h4><font color= "Red" size="6">Mother Name:</font>
-    
-    <p><font color="Brown" size="6"> Marites B. Esguerra</font></p>
-    
-    <h5><font color= "Red" size= "6">Father Name:</font>
-    
-    <p><font color ="Violet" size="6">Sonny Esguerra</font></p>
-    
-    <h6><font color= "Red" size= "6"> School:</font>
-    
-    <p><font color="orange" size="6" > Asia source iCollege</font></p>
-    
-    <h7><font color= "Red" size="6"> Strand:</font>
-    
-    <p><font color="Pink" size="6"> ICT-CP</font></p>
-    
-    <h8><font color="red" size="6">Section:</font>
-    
-    <p><font color="black" size="6"> CP1A-M</font></p>
-    
-
-</body>
-</html>
+    <h5><font color="green"> Hi! I am Heinrich B. Esguerra a student of Asia Source iCollege. 16years old Living at Napindan Taguig City 
+    <h6><p>Address:<font color="green"> Napindan Taguig City </font></p></h6>
+    <h6><p>Mother:<font color="green">Marites B. Esguerra</font></p></h6>
+    <h6><p>Father:<font color="green">Sonny M. Esguerra</font></p></h6>
+    <h6><p>School:<font color="green">Asia Source iCollege </font></p></h6>
+    <h6><p>Strand:<font color="green">ICT Computer Programming</font></p></h6>
+    <h6><p>Section:<font color="green">CP1A-M </font></p></h6>
+    <h6><p>Contact Number:<font color="blue">09215618868</font></p></h6>
+    <h6><p>email:<font color="blue">heinrich369esguerra@gmail.com</font></p></h6>
+    </body>
+    </html>
